@@ -50,7 +50,8 @@ jupyter notebook
 **Language:** Python 3.11  
 **Environment:** Jupyter Notebook
 
-| Library
+| Libraries Used |
+
 | `pandas` 
 | `numpy` 
 | `matplotlib` 
