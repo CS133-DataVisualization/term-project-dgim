@@ -51,7 +51,6 @@ jupyter notebook
 **Environment:** Jupyter Notebook
 
 | Library
-|---|---|
 | `pandas` 
 | `numpy` 
 | `matplotlib` 
